@@ -1,4 +1,4 @@
-# Securing Linux Systems at all!
+# Securing Linux Systems!
 
 Linux security with three different distributions (Rocky Linux, Ubuntu and openSUSE)!
 
